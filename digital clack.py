@@ -20,3 +20,5 @@ nota.grid(row=3,column=2)
 
 
 root.mainloop()
+print("jcgdcs")
+print("hdbchwd")
